@@ -1,0 +1,23 @@
+name: Suggest a workflow
+description: Share a practical use case for the public playbooks.
+title: "[Workflow] "
+body:
+  - type: input
+    id: audience
+    attributes:
+      label: Who is this for?
+      placeholder: "For example: agency account managers"
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: What decision or task should the workflow help with?
+      description: Use fictional examples. Describe the input and useful output.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt or steps you have tried
+      description: Remove client information, workspace IDs and credentials.

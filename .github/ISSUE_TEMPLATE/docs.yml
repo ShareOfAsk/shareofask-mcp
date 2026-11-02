@@ -1,0 +1,30 @@
+name: Documentation or connection issue
+description: Report an unclear instruction, broken example or connection problem.
+title: "[Docs] "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public issue. Do not include tokens, authorization codes, private workspace IDs or customer data. For private account support, email hello@shareofask.com."
+  - type: input
+    id: page
+    attributes:
+      label: Documentation page or workflow
+      placeholder: "For example: ChatGPT setup, agency client review"
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Client and version, if relevant
+      placeholder: "Client name, version if known, date tested"
+  - type: textarea
+    id: issue
+    attributes:
+      label: What were you trying to do, and what happened?
+      description: Include steps and a redacted error. Explain the expected result.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
