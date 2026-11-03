@@ -4,6 +4,10 @@ Bring the AI visibility data already in ShareOfAsk into a conversation: compare 
 
 You need a ShareOfAsk account with access to a workspace and an assistant that supports remote MCP with OAuth. Existing measurements make the connection useful; connecting does not create a measurement.
 
+**No data yet?** [Start a Free Scan](https://app.shareofask.com/sign-up) in ShareOfAsk. No credit card is required. Wait for the scan to finish, then follow the connection steps below to explore its results with your assistant. Free Scan is a one-time check with 7 days of result access; MCP respects that access window.
+
+MCP access is included with **Free Scan, Starter, Growth and Enterprise**. Your available data, workspace permissions and plan access limits apply. See the [current plans](https://www.shareofask.com/pricing). Your assistant may have separate requirements for custom connections.
+
 ![Connect your assistant to ShareOfAsk, choose workspace access, and explore stored visibility evidence.](../assets/illustrations/connect.png)
 
 ## 1. Add the connection
@@ -12,7 +16,7 @@ Use the instructions for your assistant:
 
 - [ChatGPT](clients/chatgpt.md)
 - [Codex](clients/codex.md)
-- [Claude — setup guidance, not yet verified](clients/claude.md)
+- [Claude (setup guidance, not yet verified)](clients/claude.md)
 
 Enter this hosted server URL:
 
@@ -43,7 +47,7 @@ Select or enable the ShareOfAsk connection in the conversation, then ask:
 
 After selecting a workspace:
 
-> Read the ShareOfAsk methodology and review the existing visibility results for this workspace. Tell me which period and models the results cover, what changed, and what is missing. Include the stored answers that support the main findings.
+> Read the ShareOfAsk methodology and review the latest available visibility results for this workspace. Tell me whether my brand appears, which competitors appear, and which dates and models the results cover. Include the stored answers that support the main findings. Explain missing or partial data. If only one measurement is available, report it without claiming a trend. Do not change anything.
 
 In an assistant that supports the embedded views, try:
 

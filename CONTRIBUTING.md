@@ -17,6 +17,12 @@ Open an issue to describe the problem or send a pull request with the proposed c
 
 This repository documents a hosted service. Product runtime changes, new tools and backend fixes are handled separately; opening a documentation PR does not change the live service.
 
+## Licensing your contribution
+
+By submitting a contribution, you agree to license it under the license that applies to that material: [CC BY 4.0](LICENSE) for documentation, playbooks, natural-language prompts and published illustrations; [MIT](LICENSE-CODE) for scripts, configuration and code examples. See [LICENSING.md](LICENSING.md) for the scope and attribution guidance.
+
+Only submit material you have the right to contribute under those terms. Identify any third-party material and its license, preserve required credits and notices, and explain any exceptions in your pull request. Do not assume a trademark or a private source file is covered by the repository licenses.
+
 ## Validate your changes
 
 From the repository root, run:

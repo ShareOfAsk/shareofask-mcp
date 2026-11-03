@@ -230,7 +230,7 @@ Launchers read existing data and open a view when the host supports it. They do 
 
 | Tool | Required scope | Inherits arguments from | Additional optional focus |
 | --- | --- | --- | --- |
-| `show_visibility` | `metrics:read` | `get_metrics` | — |
+| `show_visibility` | `metrics:read` | `get_metrics` | None |
 | `show_responses` | `responses:read` | `list_responses` | `responseId` |
 | `show_sources` | `sources:read` | `list_sources` | `responseId` |
 | `show_action_plan` | `recommendations:read` | `get_recommendations`, but `view` accepts only `actions` | `actionId` (UUID) |

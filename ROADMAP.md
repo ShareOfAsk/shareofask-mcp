@@ -8,6 +8,10 @@ This roadmap covers the public integration guide. It does not promise future pro
 - Agency, marketing and content/SEO playbooks.
 - Prompt library, permissions and methodology notes.
 - Illustrated workflows and troubleshooting.
+- A Free Scan starting point and guidance on MCP access across current plans.
+- A compact core-tool overview and copyable Codex setup in the README.
+- Reusable documentation and illustrations under CC BY 4.0, with MIT-licensed code/configuration examples and scripts.
+- Versioned documentation releases, starting with `docs-v1.0.0`.
 
 ## Next documentation improvements
 
