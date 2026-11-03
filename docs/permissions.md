@@ -15,7 +15,7 @@ Selected workspaces is the default. Refreshing a token does not expand an existi
 
 Workspace data requests check the active connection, the required permission, organization membership, workspace access, current role, and product access. Losing access in ShareOfAsk also prevents the connection from using that access. Demo workspaces are excluded. Historical reads remain subject to your current history window. The global methodology tool requires its read scope but does not access a workspace.
 
-The MCP integration has no separate paid-plan gate; the underlying ShareOfAsk features and history remain subject to your product access.
+MCP access is included with **Free Scan, Starter, Growth and Enterprise**. It has no separate paid-plan gate; underlying ShareOfAsk features, available data and history remain subject to your product access. Free Scan results are available through MCP only while access to that scan is active. See the [current plans and Free Scan access window](https://www.shareofask.com/pricing).
 
 ## Read permissions
 

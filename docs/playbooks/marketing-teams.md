@@ -24,7 +24,7 @@ evidence. Finish with a short team-review note separating observations,
 hypotheses and unanswered questions. Do not run a new measurement or change data.
 ```
 
-**You should get:** a concise review with dates, definitions and evidence—not a new dashboard snapshot generated at the time of the conversation.
+**You should get:** a concise review of saved measurements with dates, definitions and evidence.
 
 **Review before sharing:** the panel's preparation time is not the date of the measurement. Keep stale-data and partial-result notes in the team summary.
 

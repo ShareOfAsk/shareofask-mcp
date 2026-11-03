@@ -29,8 +29,8 @@ OpenAI documents URL configuration, OAuth scopes, and the DCR option in [Model C
 
 To allow changes, start a new OAuth authorization requesting the read scopes above plus either or both of:
 
-- `questions:write` — edit an existing question's text, existing theme, or tags.
-- `recommendation-status:write` — change a shared action to open, done, or dismissed.
+- `questions:write`: edit an existing question's text, existing theme, or tags.
+- `recommendation-status:write`: change a shared action to open, done, or dismissed.
 
 Enable the corresponding options on ShareOfAsk's consent screen and reload the connection's tool catalog. Read [Permissions](../permissions.md) first: these scopes allow authorized changes through chat tools as well as compatible embedded views. A separate confirmation for every operation is not required by ShareOfAsk; Codex may apply its own tool approval settings.
 
